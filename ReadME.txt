@@ -1,3 +1,5 @@
+Description of analysis scripts: 
+
 Within_group
 ----Simulations (Simulation data using hotspot or streak patterns)
     1) Simulation data generation.R: Generate simulation data with hotpot and streak patterns, considering different parameters (Cell proportions, FC).
